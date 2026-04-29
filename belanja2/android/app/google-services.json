@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "259084684100",
+    "firebase_url": "https://latihanuts-46f0b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latihanuts-46f0b",
+    "storage_bucket": "latihanuts-46f0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259084684100:android:4f1b67c5a7e2dd71fd6511",
+        "android_client_info": {
+          "package_name": "com.example.belanja2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1F3aZDHZmLUr6WhlBOuWYrU0nD7NwpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
