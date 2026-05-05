@@ -1,8 +1,8 @@
-import 'package:fasum/screens/sign_up_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:fasum/screens/home_screen.dart';
+import 'package:fasum/screens/signup_screen.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({super.key});
